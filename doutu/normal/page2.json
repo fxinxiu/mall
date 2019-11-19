@@ -1,0 +1,43 @@
+
+{
+    "page": 2,
+    "groups": [
+        {
+            "groupTitle": "纯文字_哈","groupId": 15,
+            "data": [
+                "http://doutu.camoryapps.com/image/group15/1.png"
+            ]
+           
+        },
+        {
+            "groupTitle": "大家好我是渣男","groupId": 16,
+            "data": [
+                "http://doutu.camoryapps.com/image/group16/1.jpg"
+            ]
+        },
+        {
+            "groupTitle": "大家早上好", "groupId": 17,
+            "data": [
+                 "http://doutu.camoryapps.com/image/group17/1.jpg"
+            ]
+        },
+        {
+            "groupTitle": "大佬带带我", "groupId": 18,
+            "data": [
+                 "http://doutu.camoryapps.com/image/group18/1.jpg"
+            ]
+        },
+        {
+            "groupTitle": "动物_暗中观察","groupId": 19,
+            "data": [
+                 "http://doutu.camoryapps.com/image/group19/1.jpg"
+            ]
+        },
+        {
+            "groupTitle": "放弃吧 你得不到我的","groupId": 20,
+            "data": [
+                "http://doutu.camoryapps.com/image/group20/1.jpg"
+            ]
+        }
+    ]
+}
