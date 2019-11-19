@@ -3,102 +3,89 @@
     "page": 1,
     "groups": [
         {
-            "groupTitle": "啊 爽啊",
+            "groupTitle": "啊 爽啊","groupId": 1,
             "data": [
                 "http://doutu.camoryapps.com/image/group1/1.png"
-            ],
-            "groupId": 1
+            ]
+           
         },
         {
-            "groupTitle": "哎呀 摔倒啦",
+            "groupTitle": "哎呀 摔倒啦","groupId": 2,
             "data": [
                 "http://doutu.camoryapps.com/image/group2/1.jpg"
-            ],
-            "groupId": 2
+            ]
         },
         {
-            "groupTitle": "爸爸给你举高高",
+            "groupTitle": "爸爸给你举高高", "groupId": 3,
             "data": [
                  "http://doutu.camoryapps.com/image/group3/1.jpg"
-            ],
-            "groupId": 3
+            ]
         },
         {
-            "groupTitle": "败家娘儿们 把手伸过来！",
+            "groupTitle": "败家娘儿们 把手伸过来！", "groupId": 4,
             "data": [
                  "http://doutu.camoryapps.com/image/group4/1.jpg"
-            ],
-            "groupId": 4
+            ]
         },
         {
-            "groupTitle": "悲伤到扭曲",
+            "groupTitle": "悲伤到扭曲","groupId": 5,
             "data": [
                  "http://doutu.camoryapps.com/image/group5/1.jpg"
-            ],
-            "groupId": 5
+            ]
         },
         {
-            "groupTitle": "别说了",
+            "groupTitle": "别说了","groupId": 6,
             "data": [
                 "http://doutu.camoryapps.com/image/group6/1.jpg"
-            ],
-            "groupId": 6
+            ]
         },
         {
-            "groupTitle": "不会再受爱情的伤",
+            "groupTitle": "不会再受爱情的伤","groupId": 7,
             "data": [
                 "http://doutu.camoryapps.com/image/group7/1.jpg"
-            ],
-            "groupId": 7
+            ]
         },
         {
-            "groupTitle": "不说了真的要去搬砖了",
+            "groupTitle": "不说了真的要去搬砖了","groupId": 8,
             "data": [
                  "http://doutu.camoryapps.com/image/group8/1.jpg"
-            ],
-            "groupId": 8
+            ]
         },
         {
-            "groupTitle": "不想上学",
+            "groupTitle": "不想上学","groupId": 9,
             "data": [
                 "http://doutu.camoryapps.com/image/group9/1.jpg"
-            ],
-            "groupId": 9
+            ]
         },
         {
-            "groupTitle": "场景_有点方",
+            "groupTitle": "场景_有点方","groupId": 10,
             "data": [
                "http://doutu.camoryapps.com/image/group10/1.jpg"
-            ],
-            "groupId": 10
+            ]
         },
         {
-            "groupTitle": "场景_暗中观茶",
+            "groupTitle": "场景_暗中观茶","groupId": 11,
             "data": [
                "http://doutu.camoryapps.com/image/group11/1.jpg"
-            ],
-            "groupId": 11
+            ]
         },
         {
-            "groupTitle": "撤回",
+            "groupTitle": "撤回","groupId": 12,
             "data": [
                "http://doutu.camoryapps.com/image/group12/1.jpg"
-            ],
-            "groupId": 12
+            ]
         },
         {
-            "groupTitle": "吃吧胖十斤",
+            "groupTitle": "吃吧胖十斤","groupId": 13,
             "data": [
                "http://doutu.camoryapps.com/image/group13/1.jpg"
-            ],
-            "groupId": 13
+            ]
         },
         {
-            "groupTitle": "冲破哥哥的鱼塘",
+            "groupTitle": "冲破哥哥的鱼塘","groupId": 14,
             "data": [
               "http://doutu.camoryapps.com/image/group14/1.jpg"
-            ],
-            "groupId": 14
+            ]
         }
     ]
 }
